@@ -13,3 +13,4 @@ adj3 = input(f"{name}, kindly provide a third adjective that describes your rati
 print(f"{name}!! Here is your strange statement. Let's hope that it makes sense!!")
 print(f"Hello {name}, it is highly probable that your life will be so {adj1}. I suspect that you are {noun1}, your favorite number is {number} and I bet you hope that this is also the lottery winner for the day. It is our desire that your favorite dog, the {noun2}, is with you today. Surprise!! We have your favorite dog, the {noun2}. But I also imagine that you are very {adj2} now, please {verb} for the rest of your {noun3}, because I know, in my {body_part}, you`re the most {adj3} person for me.")
 print(f"{name}, I hope that you had a great experience with our service!! I think that you have passed our initial inquiry and you have been selected to continue in our selection process!")"# MadLab2" 
+"# MadLab2" 
